@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Kai and I am 17 years old. Currently I am in the second year of my apprenticeship as an application developer. In my free time I like to go biking and in the winter I like to ski.
+- 🌱 I’m currently learning angular.js
+
+
 
 <!--
 **Kaigummi12/Kaigummi12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
