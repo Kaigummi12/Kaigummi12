@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Kai and I am 19 years old. Currently I am in the fourth year of my apprenticeship as an application developer. In my free time I like to go biking and in the winter I like to ski.
-- 🌱 I’m currently learning AngularJS
+- 🌱 I’m currently learning Angular
 
 
 
